@@ -1,0 +1,5 @@
+### home path
+GET http://localhost:3000
+
+### send notif to frontend using socket.io
+POST http://localhost:3000/notif
